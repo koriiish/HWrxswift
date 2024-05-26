@@ -1,0 +1,6 @@
+framework module Pods_HWlesson35 {
+  umbrella header "Pods-HWlesson35-umbrella.h"
+
+  export *
+  module * { export * }
+}
